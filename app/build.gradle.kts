@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "edu.temple.simplerecyclerview"
-    compileSdk = 34
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "edu.temple.simplerecyclerview"
